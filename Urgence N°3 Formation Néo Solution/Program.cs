@@ -18,7 +18,7 @@ namespace Urgence_N_3_Formation_Néo_Solution
          * Pour cet exercice, une classe "Héro" simplifiée vous est fourni dans un fichier à part.
          * Par contre, interdit de toucher au Main! ;)
          * 
-         * 1°) Créer la classe QG_Hero sans un fichier à part (QG_Hero.cs par exemple)
+         * 1°) Créer la classe QG_Hero dans un fichier à part (QG_Hero.cs par exemple)
          * 2°) Ajouter une collection de héro. Initialisez la dans le constructeur de la classe
          * 3°) Ajouter CompteHéro()
          * 4°) Vérifier que votre code fonctionne en compilant et executant le code.
